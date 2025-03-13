@@ -1,1 +1,2 @@
 # Moh-Ramdani---2306062--Latihan-Workflow-A
+Kode ini membaca data penjualan produk dari file CSV, membersihkan dan mengolah data dengan menambahkan kolom Total Penjualan serta Keuntungan, lalu menggunakan Decision Tree Classifier untuk memprediksi apakah suatu produk perlu di-restok berdasarkan jumlah terjual dan stok, serta menampilkan visualisasi hubungan antara jumlah terjual, stok, dan keuntungan menggunakan scatter plot.
